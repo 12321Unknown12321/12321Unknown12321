@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @12321Unknown12321
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Java / Python tkinter
+- 📫 How to reach me: through discord or replit
